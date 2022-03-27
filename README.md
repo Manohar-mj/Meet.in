@@ -6,11 +6,30 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Features and Functionalities 😃
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+> Video Call with multiple participants
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> Chat feature working without disrupting flow of meeting
+
+> View & Send messages.
+
+> Continue the conversation after the meeting.
+
+>Start the conversation before the meeting.
+
+>Toggling of video stream
+
+>Toggling of audio stream (mute & unmute)
+
+>Screen sharing
+
+>Share link to join instantly on e-mailId
+
+> Chat in real-time
+
+> Screen Recording
+
+> Unlimited duration calls
+
+> Simple and intuitive UI
